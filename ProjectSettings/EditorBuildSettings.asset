@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/InitialCutscene.unity
+    guid: 5000315970422594396567a7697e9f3c
+  - enabled: 1
+    path: Assets/Scenes/landscape_felix.unity
+    guid: 12fe30a5de6d3b74c8141a6d6ba8e5d7
   m_configObjects: {}
